@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+ 28/04/2020
 
 ### Project Title
-Replace the Project Title
+Bikeshare US
 
 ### Description
-Describe what your project is about and what it does
+This project allows user to analyze data to understand the customer behaviour patterns of the Bikeshare companies in Newyork city, Chicago and Washignton.
 
 ### Files used
-Include the files used
+Python, Excel and Atom
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
