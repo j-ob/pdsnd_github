@@ -10,5 +10,5 @@
 ### Files used
 *Python, Excel and Atom*
 
-### Credits
+### Credits**
 https://udacity.github.io/git-styleguide/
