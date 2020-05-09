@@ -29,7 +29,7 @@ def get_filters():
     # TO DO: get user input for month (all, january, february, ... , june)
          months = ('january', 'february', 'march', 'april', 'may', 'june', 'all' )
     while True:
-         month = input("select month from january to june:")
+         month = input("Select month from january to june:")
          if month in months:
                  print("Selected month:", month)
                  break
